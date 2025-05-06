@@ -1,0 +1,20 @@
+body{
+    background-color: #EBC3DB;
+    color: #10050c;
+}
+
+a{
+    background-color:rgb(244, 48, 186);
+    color: rgb(255, 255, 255);
+}
+
+strong{
+    color: #2222d3;
+    border: 2px solid #ffffff;
+    padding: 2px;
+}
+
+footer{
+    font-weight: bold;
+    border: 2px solid #b96685;
+}
